@@ -1,1 +1,1 @@
-
+Virtual-Base class.
