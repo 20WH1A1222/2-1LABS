@@ -1,1 +1,1 @@
-
+Virtual function.
